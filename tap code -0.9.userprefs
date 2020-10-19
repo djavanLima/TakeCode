@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\modoLivre\estourarObjetos.js">
+    <Files>
+      <File FileName="Assets\scripts\modoLivre\estourarObjetos.js" Line="117" Column="13" />
+      <File FileName="Assets\scripts\modoLivre\GerarObjetos.js" Line="44" Column="25" />
+      <File FileName="Assets\scripts\modoLivre\MovimentoObj.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BotoesJogo.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\menu\EstadoJogo.js" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
